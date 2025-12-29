@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "to Log In to Dashlane: Step-by-Step Guide to Access and Manage Your Account Securely"
+html_title = "Activate VIPRE Product Key on Windows 10: Download, Install, and Use Your Activation Key Code"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
